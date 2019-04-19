@@ -6,8 +6,8 @@ CODE FLOW OF SENTIMENT ANALYSIS
 library used
 ^^^^^^^^^^^^
 
-	Textblob: library used for nlp purpose.
-	tweepy: tweeter API for fetching tweets.
+	*Textblob: library used for nlp purpose.
+	*tweepy: tweeter API for fetching tweets.
 
 
 installing dependencies
